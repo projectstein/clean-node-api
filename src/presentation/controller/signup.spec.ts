@@ -116,7 +116,7 @@ describe('Signup Controller', () => {
         name: 'ewfwe',
         email: 'wefewf',
         password: 'wefewf',
-        passwordConfirmation: 'wfewfwe'
+        passwordConfirmation: 'wefewf'
       }
     }
 
@@ -134,7 +134,7 @@ describe('Signup Controller', () => {
         name: 'ewfwe',
         email: 'wefewf',
         password: 'wefewf',
-        passwordConfirmation: 'wfewfwe'
+        passwordConfirmation: 'wefewf'
       }
     }
 
@@ -153,7 +153,7 @@ describe('Signup Controller', () => {
         name: 'ewfwe',
         email: 'wefewf',
         password: 'wefewf',
-        passwordConfirmation: 'wfewfwe'
+        passwordConfirmation: 'wefewf'
       }
     }
 
